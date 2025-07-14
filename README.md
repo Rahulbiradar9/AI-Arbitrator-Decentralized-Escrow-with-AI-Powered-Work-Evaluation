@@ -116,3 +116,12 @@ A hybrid **AI + Blockchain** framework designed for freelancer platforms that:
 ---
 
 > **Web3SSH-Ascendant** brings trust, speed, and intelligence to Web3 disputes—bridging the gap between smart contracts and real-world judgment.
+
+<img width="1896" height="863" alt="1st page" src="https://github.com/user-attachments/assets/16af2576-5205-4216-bc59-5f8ae1e60d9c" />
+<img width="1895" height="866" alt="features" src="https://github.com/user-attachments/assets/8fc04dc2-c09d-4ae7-9606-db0b01f4a38a" />
+<img width="1604" height="857" alt="website" src="https://github.com/user-attachments/assets/0760a237-e2f7-40c5-9b3d-127f978bb2c8" />
+<img width="1629" height="640" alt="services" src="https://github.com/user-attachments/assets/5d40bf8a-8955-4c8e-8a91-00a798e8050f" />
+<img width="1431" height="863" alt="freelancer profile" src="https://github.com/user-attachments/assets/b3fbb37d-3b39-48aa-ad46-f7f3ce287322" />
+<img width="551" height="642" alt="gemini report" src="https://github.com/user-attachments/assets/e8914a0f-b435-4018-858c-797df6d87ca2" />
+<img width="1919" height="865" alt="report analysis" src="https://github.com/user-attachments/assets/cdbbf96a-3794-42e6-b170-80017562d312" />
+<img width="1294" height="864" alt="contract page" src="https://github.com/user-attachments/assets/fa2dba33-060e-4482-891d-4b41c3b5ffbe" />
